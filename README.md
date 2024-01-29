@@ -102,15 +102,15 @@ Most of what's in this challenge, was covered in class.
 The few things that either weren't or I had to reference to, are described
 with it's source right below.
 
-Nunique Method =.nunique()=  resources:
+Nunique Method **.nunique()**  resources:
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html 
 
-Drop Duplicates method =.drop_duplicates()=  resources:
+Drop Duplicates method **.drop_duplicates()**  resources:
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html 
 
-Getting data from duplicates using =.isin()= method resources:
+Getting data from duplicates using **.isin()** method resources:
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html
 
-Using the aggregation =.agg()= method resources:
+Using the aggregation **.agg()** method resources:
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
 https://pbpython.com/groupby-agg.html
