@@ -24,12 +24,11 @@ INDEX
 Content of the repository
 ---------------------------------
 1. Pymaceuticals
-- Data Directory:
+- Data directory:
     - Mouse_metadata.csv file
     - Study_results.csv file
-- pymaceuticals_starterLMVS.ipynb          <-- Jupyter Notebook file. 
-- (PENDING)Pymaceuticals_analysisLMVS.docx <-- Written analysis formated in Microsoft Word. To view you might have to download the file.
-- (PENDING)Pymaceuticals_analysisLMVS.txt  <-- Written analysis formated in Text. This version allows you to view the results directly on GitHub
+- pymaceuticals_starterLMVS.ipynb <-- Jupyter Notebook file with the code for the analysis, which also includes the written analysis. 
+- Pymaceuticals_AnalysisLMVS.txt  <-- Written analysis formated in Text. This version allows you to view the results directly on GitHub
 
 ----------------------------------
 Instructions for Pymaceuticals
