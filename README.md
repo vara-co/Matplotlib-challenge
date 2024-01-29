@@ -24,7 +24,6 @@ INDEX
 Content of the repository
 ---------------------------------
 1. Pymaceuticals
-- ipynb_checkpoints Directory
 - Data Directory:
     - Mouse_metadata.csv file
     - Study_results.csv file
