@@ -1,4 +1,3 @@
-DU - DA Module 5 challenge
 --------------------------------
 --------------------------------
 Matplotlib Challenge
