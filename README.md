@@ -5,6 +5,9 @@ Matplotlib Challenge
 --------------------------------
 by Laura Vara
 --------------------------------
+![Pymaceuticals](https://github.com/vara-co/Matplotlib-challenge/assets/152572519/68f37861-d33a-429c-bb9b-fa18cf5bbdd9)
+
+
 Note: It is important that if you are going to use this code, the csv files
 are placed in a directory called Data, in the same directory as your
 main Jupyter Notebook files. Otherwise the code with the path were you intend to read 
